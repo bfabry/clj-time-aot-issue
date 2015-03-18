@@ -1,6 +1,6 @@
 # test-aot
 
-A Clojure library designed to ... well, that part is up to you.
+Demonstration of issue with clj-time and aot, lein repl to observe
 
 ## Usage
 
